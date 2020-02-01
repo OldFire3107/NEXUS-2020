@@ -1,2 +1,4 @@
 # NEXUS-2020
-This is the code used by our team in the Nexus event organised by Kshitij in 2020 in which we were placed first.
+This is the code used by our team in the Nexus event organised by Kshitij in 2020 in which we were placed first. The event consisted of 2 rounds, which had to do something with computer vision. First round consisted of green circles and non green trinagles and rectangles as obstecles and the bot had to decide the path based on the shape after blinking LED on board a number of times depending on the instruction given during the teams turn. The second round consisted of 3 different coloured circles and at the junction there is a barcode placed representing a 4 bit number. The objective was to read it and follow a particular circular path until the end. At the end of the couse a black rectangle was placed and the bot had to turn according to the average values of the barcodes.
+
+## Team
